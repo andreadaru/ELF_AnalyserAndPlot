@@ -2,7 +2,7 @@
 
 ### *How to cite:*
 
-[DOI registered in Zenodo.org]
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46794.svg)](http://dx.doi.org/10.5281/zenodo.46794)
 
 ### *Requested repositories:*
 
@@ -36,7 +36,7 @@ __example:__ "name you prefer"-"number"_elf.out
  - Create association between basin/s and atom/s;
  - Divide in different files the interactions between atoms and values in each point;
  - Clean useless interaction (the ones that don't suffer variations);
- - Plot with lines the values in a graph, giving different options about the elboration.
+ - Plot with lines the values in a graph, giving different options about the elaboration.
 
 #### *Ideas and future improvements in the subsequent versions:*
 
