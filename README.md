@@ -29,6 +29,15 @@ from 1 to the last step (without interruptions) and after the number an _undersc
 
 __example:__ "name you prefer"-"number"_elf.out
 
+#### *Features:*
+
+ - Extract geometry of atoms and basins from the out-files generated;
+ - Extract values for each basin;
+ - Create association between basin/s and atom/s;
+ - Divide in different files the interactions between atoms and values in each point;
+ - Clean useless interaction (the ones that don't suffer variations);
+ - Plot with lines the values in a graph, giving different options about the elboration.
+
 #### *Ideas and future improvements in the subsequent versions:*
 
  - Possibility to set the cutoff-value for the distance atom-basin (now 1A default) and a checker for bad values;
