@@ -21,7 +21,13 @@ Anyway, you can find more informations reading inside _install.sh_.
 
 ### *How to use:*
 
-    Run the alias you setted up whether you used the automatic installer (install.sh) or you did it manually.
+    Run the alias you setted up (whether you used the automatic installer or you did it manually)
+    into a folder that contains the out-files generated from ELF calculation.
+
+The _name_ of the file have to be with a part of your choosing, after this a _dash_ and the progressive _number_
+from 1 to the last step (without interruptions) and after the number an _underscore_ and the word "_elf_"
+
+__example:__ "name you prefer"-"number"_elf.out
 
 #### *Ideas and future improvements in the subsequent versions:*
 
